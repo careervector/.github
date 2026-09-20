@@ -6,7 +6,8 @@ rename announcement — structure first, brand second.
 ## Contributing
 
 Default instructions in `CONTRIBUTING.md`. The canonical Individual
-Contributor License Agreement for this organization is version 1.0.
+Contributor License Agreement for this organization is version 1.0 at
+[`cla-v1.0`](https://github.com/careervector/.github/blob/cla-v1.0/CLA.md).
 The pull-request affirmation is the acceptance record.
 
 ## Security
