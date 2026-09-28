@@ -1,6 +1,6 @@
 # CareerVector
 
-Collaborative career workspace and document workflows, available through web, desktop, and terminal apps with integrated chatbot clients.
+Software for collaborative career work and document workflows, with web, desktop, and terminal clients and chatbot integrations.
 
 ## Contributing
 
