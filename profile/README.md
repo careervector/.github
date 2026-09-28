@@ -1,7 +1,6 @@
-# CareerVector (renaming in progress)
+# CareerVector
 
-Career product family, product org. Name, mark, and domain pending the
-rename announcement — structure first, brand second.
+Collaborative career workspace and document workflows, available through web, desktop, and terminal apps with integrated chatbot clients.
 
 ## Contributing
 
